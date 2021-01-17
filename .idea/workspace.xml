@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0273747a-da1a-4152-9cfb-ae3dce88b851" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/devisen.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/devisen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/arrows-left-and-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/arrows-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/arrows-right.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +49,9 @@
       <workItem from="1609946355601" duration="16000" />
       <workItem from="1610188841170" duration="5041000" />
       <workItem from="1610198435711" duration="24000" />
+      <workItem from="1610542873838" duration="4181000" />
+      <workItem from="1610548489205" duration="31000" />
+      <workItem from="1610880065532" duration="6988000" />
     </task>
     <servers />
   </component>

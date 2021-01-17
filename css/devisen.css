@@ -2,37 +2,69 @@ section {
     width: 180px;
     padding: 10px;
     margin: 0px 5px 5px 20px;
-    border: 1px dotted gray;
-    background-color: yellow;
+    background-color: deepskyblue;
+    border: transparent;
+    color: white;
 }
 
 .operation {
     width: 90px;
     padding: 10px;
     margin: 0px 5px 5px 20px;
-    border: 1px dotted transparent;
     background-color: transparent;
     text-align: center;
 }
 
 
 main {
-    font-family: sans-serif;
+    font-family: "Open Sans", sans-serif;
     width: 90%;
-    padding: 10px;
+    padding: 300px 10px 10px 50px;
     background-color: transparent;
+    opacity: 1;
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
+
 input {
     text-align: right;
+    font-family: "Open Sans", sans-serif;
+    outline: none;
 }
 
 input[type='image'] {
     margin-top: 2.5rem;
+    outline: none;
 }
 
 input[type='image'] {
     width: 40px;
     height: auto;
+    outline: none;
+}
+
+#localExchange {
+    font-family: "Open Sans", sans-serif;
+}
+
+#foreignExchange {
+    font-family: "Open Sans", sans-serif;
+}
+
+
+body {
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.arrow {
+   height: 50%;
+}
+
+h1 {
+    padding-top: 30px;
+    color: white;
 }
